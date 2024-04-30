@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * Filter metadata on group of column with pattern
+ * Filter metadata on group of filter and aggregate pattern
  * */
 @Data
 public class GroupFilterMetadata {
